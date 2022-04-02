@@ -1,0 +1,161 @@
+
+
+
+#brand_name{
+    z-index: 1;
+    margin-left: -93px;
+    font-size: 25px;
+    font-family: 'Fredoka', sans-serif;;
+}
+
+#brand_img{
+    z-index: 0;
+    margin-left: -30px;
+    width: 120px;
+}
+
+
+h5 {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid rgb(143, 140, 140); 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    font-family: 'Fredoka', sans-serif;
+    color: rgb(117, 116, 116);
+    font-weight: lighter;
+    font-size: 17px;
+   
+ } 
+ 
+ h5 span { 
+     background:#fff; 
+     padding:0 10px; 
+     font-weight: lighter;
+ }
+
+ h3 {
+    font-family: 'Fredoka', sans-serif;
+    font-weight: bold;
+ } 
+
+
+ #card-img{
+    
+     height: 400px;
+     width: 250px;
+ }
+
+img{
+    
+    max-width: 100%;
+}
+
+#cards-text{
+   
+   
+    font-size: 15px;
+    margin-top: 1px;
+    color: rgb(117, 116, 116);
+    font-weight: lighter;
+    font-family: 'Fredoka', sans-serif;
+}
+
+#yellow{
+    background-color: #eed9d2;
+    
+}
+
+
+li{
+    list-style-type: none;
+    
+}
+
+
+#bottom-text a{
+  color: rgb(70, 70, 70);
+  text-decoration: none;
+  font-weight: lighter;
+  font-family: 'Fredoka', sans-serif;
+  
+}
+
+#bottom-text span{
+  color: rgb(70, 70, 70);
+  font-weight: lighter;
+  font-family: 'Fredoka', sans-serif;
+}
+
+#bottom-text li{
+  color: rgb(70, 70, 70);
+  font-weight: lighter;
+  font-family: 'Fredoka', sans-serif;
+}
+
+
+#form_text{
+  font-family: 'Fredoka', sans-serif;
+  font-size: 14px;
+}
+
+#payment li{
+  list-style-type:circle;
+}
+
+
+.dress_head{
+  font-size: 24px;
+  font-weight: lighter;
+}
+
+#select_image1, #select_image2 {
+  width: 70px;
+  border: grey;
+}
+
+#alert_label{
+  display: none;
+  height: 25px;
+  font-size: 16px;
+  padding: 0px;
+  padding-left: 15px;
+
+}
+
+
+
+
+
+
+#product_number, #clear_from_cart, #cart_image, #product_name_cart, #product_size_cart, #product_price_cart{
+  display: none;
+  width: 20px;
+  font-size: 5px;
+  margin-top: 0px;
+  display: inline;
+  z-index: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#subtotal{
+ 
+ margin-top: 150px;
+  height: 200px;
+ 
+}
+
